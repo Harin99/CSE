@@ -1,7 +1,8 @@
-# Demonstrating Interactive Collaborative SLAM: A Benchmark Synthetic Dataset for C-SLAM in Service Environments
+# CSE Dataset 
+## Demonstrating Interactive Collaborative SLAM: A Benchmark Synthetic Dataset for C-SLAM in Service Environments
 
-## Main Contributions 
+### Main Contributions 
 
-## Dataset 
+### Dataset 
 
-## Evaluations 
+### Evaluations 
