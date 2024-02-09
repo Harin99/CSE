@@ -5,4 +5,6 @@
 Comming soon.
 
 ### Youtube 
-High-resolution supplementary video can be found [here](https://youtu.be/EKeVWzePS5M)https://youtu.be/EKeVWzePS5M. 
+High-resolution supplementary video can be found below
+[![High-resolution video](https://img.youtube.com/vi/EKeVWzePS5M/0.jpg)](https://youtu.be/EKeVWzePS5M)
+
