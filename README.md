@@ -1,5 +1,6 @@
 # CSE Dataset 
 ## Demonstrating Interactive Collaborative SLAM: A Benchmark Synthetic Dataset for C-SLAM in Service Environments
+![Figure1](https://github.com/Harin99/CSE/assets/76952715/7d5019f8-8b7b-4ea4-89d3-14608f12bd1a)
 
 ## Download 
 Comming soon.
